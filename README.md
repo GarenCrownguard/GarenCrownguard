@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-**Page Views**(Counting since 12th August 2022): ![Visitor Count](https://profile-counter.glitch.me/GarenCrowngaurd/count.svg)
+**Page Views**
+
+(Counting since 12th August 2022): 
+
+![Visitor Count](https://profile-counter.glitch.me/GarenCrowngaurd/count.svg)
