@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: Working on a number of projects in private repositories. HEHE 😄
+- ⚡ Fun fact: Working on a number of projects in private repositories. 😄
+
+- 🔭 I’m currently working on Dcentr Finance:
+
+- ✨ https://linktr.ee/dcentr ✨
+
+- 👯 I’m looking to collaborate on a crypto project.
+
+- 🤔 I’m looking for help with smart contract development and marketing.
+
+- 💬 Ask me about web development, crypto investing, etc.
+
+- 📫 How to reach me: 0xgaren@proton.me or https://twitter.com/0xGaren
 
 <!--
 **GarenCrownguard/GarenCrownguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
